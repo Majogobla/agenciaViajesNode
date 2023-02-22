@@ -1,3 +1,5 @@
 .env
 node_modules/
-agenciaviajes.dump
+credentials.txt
+*.sql
+*.dump
